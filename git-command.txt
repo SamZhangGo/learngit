@@ -1,0 +1,4 @@
+git add 
+git commit
+git status 告诉你有文件被修改过
+git diff 可以查看修改内容
